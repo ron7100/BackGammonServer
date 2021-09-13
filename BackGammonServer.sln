@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGammonServer", "BackGammonServer\BackGammonServer.csproj", "{0AED69CF-1D60-4B6E-AD58-8B5ECA2A4172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGammonServerBL", "BackGammonServerBL\BackGammonServerBL.csproj", "{970FEAA2-A1FA-4507-8EC2-F61EDB159972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AED69CF-1D60-4B6E-AD58-8B5ECA2A4172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AED69CF-1D60-4B6E-AD58-8B5ECA2A4172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AED69CF-1D60-4B6E-AD58-8B5ECA2A4172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AED69CF-1D60-4B6E-AD58-8B5ECA2A4172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970FEAA2-A1FA-4507-8EC2-F61EDB159972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970FEAA2-A1FA-4507-8EC2-F61EDB159972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970FEAA2-A1FA-4507-8EC2-F61EDB159972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970FEAA2-A1FA-4507-8EC2-F61EDB159972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E047DDE8-10B3-4597-97F4-1392E7A520C9}
+	EndGlobalSection
+EndGlobal
